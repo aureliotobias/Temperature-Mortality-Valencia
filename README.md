@@ -1,4 +1,4 @@
-## Valencia dataset
+## Valencia temperature-mortality dataset
 **Dataset** and **R** script to estimate the temperature-mortality association in Valencia 2001-2007.
 
 <br>

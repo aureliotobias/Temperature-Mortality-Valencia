@@ -11,4 +11,4 @@ This data is part of a more extensive dataset aimed to estimate the impacts of t
 * The **R** script reproduces analysis for the temperature-mortality association in Valencia, Spain, for the study period 2001-2007. 
 
 <br>
-<b>Reference:</b> Iñiguez C, Tobias A. Data supporting the short-term health effects of temperature and air pollution in Valencia, Spain. Submitted to <b>Data in Brief</b>
+<b>Reference:</b> Iñiguez C, Tobias A. Data supporting the short-term health effects of temperature and air pollution in Valencia, Spain. Submitted to <b>Data in Brief</b> (19/04/2022).

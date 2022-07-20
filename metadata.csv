@@ -1,0 +1,25 @@
+variable_name;variable_type;variable_description
+date;chr;date
+year;int;year (extrated from date)
+month;int;month (extracted from date)
+day;int;day (extracted from date
+dow;chr;day of week. Values: mon, tue, wed, thu, fri, sat, sun
+all;int;number of deaths for all natural causes
+cv;int;number of deaths for cardiovascular causes
+res;int;number of deaths for respiratory causes
+all_f;int;number of deaths for all causes in females
+all_m;int;number of deaths for all causes in males
+all_0_14;int;number of deaths for all causes in people aged [0,15) years
+all_15_64;int;number of deaths for all causes in people aged [15,65) years
+all_65;int;number of deaths for all causes in people aged 65 years or over
+tmean;num;mean ambient temperature in Celsius degrees
+tmax;num;minimum ambient temperature in Celsius degrees
+tmin;num;maximum ambient temperature in Celsius degrees
+rh;num;mean relative humidity in percentage
+hol;int;bank hodiday day. Values: 0:no 1:yes
+infl;num;estimated number of influenza cases
+hw;int;heat wave day. Values: 0:no 1:yes
+pm10;num;mean of PM10 levels in micro grams by cubic meter
+no2;num;mean of NO2 levels in micro grams by cubic meter
+o3;num;maximum 8h MA of O3 levels in micro grams by cubic meter
+dust;int;saharan dust day. Values: 0:no 1:yes

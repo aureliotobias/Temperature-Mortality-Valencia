@@ -2,7 +2,7 @@
 Data supporting the short-term health effects of temperature and air pollution in Valencia, Spain.
 <br>
 <br>
-Iñiguez C, Tobias A. Data supporting the short-term health effects of temperature and air pollution in Valencia, Spain. <b>Data in Brief</b> (submitted, 19/04/2022).
+Iñiguez C, Tobias A. <a href="https://www.sciencedirect.com/science/article/pii/S2352340922007120" target="_blank">Data supporting the short-term health effects of temperature and air pollution in Valencia, Spain</a>. <b>Data in Brief</b> 2022;44:108518
 
 ---
 
